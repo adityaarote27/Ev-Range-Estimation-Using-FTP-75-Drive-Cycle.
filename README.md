@@ -16,6 +16,11 @@ This project estimates the driving range of an Electric Vehicle (EV) using a sta
 - **Average Energy Consumption:** ~1.49 Wh/km  
 - **Estimated Driving Range:** ~417.5 km (under FTP-75 Drive cycle)
 
+## 📈 Simulation model Output:
+- **Battery Capacity:** 35 kWh 
+- **Average Energy Consumption:** ~1.84 wh/km
+- **Final range:** ~336.4
+
 
 ## 🧠 Why this project matters:
 This project replicates how automotive companies test EV range under standard test procedures like UDDS, FTP-75, or WLTP. It reflects strong knowledge of EV system modeling and real-world simulation—essential for roles in electric mobility, vehicle simulation, and powertrain development.
